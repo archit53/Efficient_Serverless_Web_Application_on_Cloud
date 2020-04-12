@@ -1,0 +1,8 @@
+Description
+
+index.php - This is the index.php file.
+upload.php - This file is used for uploading files.
+listing.php - This file is used for listing files.
+mainindex.php - This is the main index files used for redirection.
+redirection.php - This file is used for login purpose.
+tryagain.php - This file is for wrong login.
